@@ -6,7 +6,7 @@ Este projeto contém um script de automação usando PyAutoGUI para fazer uma li
 
 Este projeto é um script de automação que limpa a caixa de spam e a lixeira do Gmail utilizando a biblioteca PyAutoGUI. O script abre o navegador Microsoft Edge, navega até a caixa de entrada do Gmail, acessa a pasta de spam e da lixeira e exclui todos os e-mails presentes.
 
-##Pré-requisitos
+## Pré-requisitos
 
 - Python 3.x
 - Biblioteca PyAutoGUI
